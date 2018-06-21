@@ -1,6 +1,6 @@
 branches:
   only:
-    - master
+    - travis-build
 sudo: false
 language: node_js
 node_js:
